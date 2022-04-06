@@ -5,12 +5,12 @@
 
 /* css variables */ 
 
-@import url(./partials/_variables.css);
+@import url(./_variables.css);
 
 
 /* global styling*/
 
-@import url(./partials/_global.css);
+@import url(./_global.css);
 
 /* start navigation */
 
